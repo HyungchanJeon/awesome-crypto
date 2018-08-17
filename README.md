@@ -68,10 +68,48 @@
 
 
 ## Cryptocurrency Wallets
+### Web Wallets
+* [Blockchain Wallet](https://blockchain.com/)
+* [Coinbase](https://blockchain.com/)
+* [MyEtherWallet](https://myetherwallet.com/)
+* [MyCrypto](https://myetherwallet.com/)
+* [Xapo](https://myetherwallet.com/)
+ 
+### Software Wallets (PC)
+* [Armory](https://btcarmory.com/)
+* [Bitcoin Core](https://bitcoin.org/en/wallets/desktop/windows/bitcoincore/)
+* [Copay](https://copay.io/)
+* [Electrum](https://electrum.org/#download)
+* [Exodus](https://exodus.io/)
+ 
+### Software Wallets (Mobile)
+* BRD([Android](https://play.google.com/store/apps/details?id=com.breadwallet)|[iOS](https://itunes.apple.com/app/breadwallet/id885251393))
+* Coinomi ([Android](https://play.google.com/store/apps/details?id=com.breadwallet)|[iOS](https://itunes.apple.com/app/coinomi-wallet/id1333588809))
+* Copay ([Android](https://play.google.com/store/apps/details?id=com.bitpay.copay&hl=en)|[iOS](https://itunes.apple.com/us/app/copay/id951330296))
+* Electrum ([Android](https://play.google.com/store/apps/details?id=org.electrum.electrum))
+* Jaxx ([Android](https://play.google.com/store/apps/details?id=com.kryptokit.jaxx&hl=en)|[iOS](https://itunes.apple.com/kr/app/jaxx-blockchain-wallet/id1084514516?mt=8))
+* Mycelium ([Android](https://play.google.com/store/apps/details?id=com.mycelium.wallet)|[iOS](https://itunes.apple.com/us/app/mycelium-bitcoin-wallet/id943912290))
+ 
+### Hardware Wallets
+* [BitBox](https://shiftcrypto.ch/)
+* [Bitfi](https://bitfi.com/bitfi-wallet)
+* [KeepKey](https://www.keepkey.com/)
+* [Ledger](https://www.ledger.com/)
+* [Trezor](https://www.keepkey.com/)
+ 
+### Paper Wallet Generators
+* [bitaddress.org](https://www.bitaddress.org/)
+ 
+### Private Key Storage
+* [CryptoSteel](https://cryptosteel.com/)
+* [Steely](https://thesteely.com/)
 
 ## Cryptocurrency Mining Tools
 
-## Exchanges & Trading Platform
+## Cryptocurrency Trading Tools
+
+
+## Cryptocurrency Exchanges & Trading Platform
 
 ## Portfolio Trackers
 
