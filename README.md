@@ -90,13 +90,14 @@
 
 ## Cryptocurrency Exchanges & Trading Platform
 ### Trading Platforms
+
 ### DEX (Decentralized Exchange)
 ### Social Trading Platform
 
  
 
 ## Portfolio Trackers
-### Software Clients
+### Mobile & PC Clients
 * Delta ([Android](https://play.google.com/store/apps/details?id=io.getdelta.android) | [iOS](https://itunes.apple.com/app/delta-crypto-ico-portfolio/id1288676542) | [PC](https://getdelta.io/download))
 * Blockfolio ([Android](https://play.google.com/store/apps/details?id=com.blockfolio.blockfolio&hl=en_US) | [iOS](https://itunes.apple.com/us/app/blockfolio-bitcoin-altcoin/id1095564685?mt=8))
 * Bitsnapp ([Android](https://play.google.com/store/apps/details?id=bitsnapp.com.bitsnapp))
