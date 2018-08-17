@@ -1,56 +1,56 @@
 # awesome-crypto
 
 ## Airdrop Info Sites
-[Airdrops.io](https://airdrops.io/)
+* [Airdrops.io](https://airdrops.io/)
 
-[Airdrops.ph](https://airdrops.ph/)
+* [Airdrops.ph](https://airdrops.ph/)
 
-[Airdrop King](https://airdropking.io/)
+* [Airdrop King](https://airdropking.io/)
 
-[Airdrop Alert](https://airdropalert.com/)
+* [Airdrop Alert](https://airdropalert.com/)
 
-[Airdrop Tracker](https://airdroptracker.co/)
+* [Airdrop Tracker](https://airdroptracker.co/)
 
-[Coin Airdrops](https://coinairdrops.com/)
+* [Coin Airdrops](https://coinairdrops.com/)
 
 ## Block Explorer
-[Bitcoin Blockchain Explorer](https://www.blockchain.com/explorer)
+* [Bitcoin Blockchain Explorer](https://www.blockchain.com/explorer)
 
-[BlockExplorer](https://blockexplorer.com/)
+* [BlockExplorer](https://blockexplorer.com/)
 
-[Cryptoid](https://chainz.cryptoid.info/)
+* [Cryptoid](https://chainz.cryptoid.info/)
 
-[Etherscan] (https://etherscan.io/)
+* [Etherscan](https://etherscan.io/)
 
-[Ethplorer](https://ethplorer.io/)
+* [Ethplorer](https://ethplorer.io/)
 
-[BlockCypher](https://live.blockcypher.com/btc/)
+* [BlockCypher](https://live.blockcypher.com/btc/)
 
 ## Coinmarket Trackers
 
-[BitInfoCharts](https://bitinfocharts.com/)
+* [BitInfoCharts](https://bitinfocharts.com/)
 
-[CoinCap.io](https://coincap.io/)
+* [CoinCap.io](https://coincap.io/)
 
-[CoinCheckup](https://coincheckup.com/)
+* [CoinCheckup](https://coincheckup.com/)
 
-[CoinCodex](https://coincodex.com/)
+* [CoinCodex](https://coincodex.com/)
 
-[CoinGecko](https://www.coingecko.com/en)
+* [CoinGecko](https://www.coingecko.com/en)
 
-[Coinlib](https://coinlib.io/)
+* [Coinlib](https://coinlib.io/)
 
-[CoinMarketCap](https://coinmarketcap.com/)
+* [CoinMarketCap](https://coinmarketcap.com/)
 
-[CoinRanking](https://coinranking.com/)
+* [CoinRanking](https://coinranking.com/)
 
-[CryptoCompare](https://www.cryptocompare.com/)
+* [CryptoCompare](https://www.cryptocompare.com/)
 
-[Cryptowatch](https://cryptowat.ch/)
+* [Cryptowatch](https://cryptowat.ch/)
 
-[LiveCoinWatch](https://livecoinwatch.com/)
+* [LiveCoinWatch](https://livecoinwatch.com/)
 
-[WorldCoinIndex](https://livecoinwatch.com/)
+* [WorldCoinIndex](https://livecoinwatch.com/)
 
 ## Cryptocurrency News Websites
 
