@@ -106,91 +106,90 @@
 
 8. [Coinsbank](https://coinsbank.com/)
 
-9. [Kraken]()
+9. [Kraken](https://www.kraken.com/)
 
-10. [Bitstamp]()
+10. [Bitstamp](https://www.bitstamp.net/)
 
-11. [Hitbtc]()
+11. [Hitbtc](https://hitbtc.com/)
 
-12. [Bithumb]()
+12. [Bithumb](https://www.bithumb.com/)
 
-13. [bitbank]()
+13. [bitbank](https://www.bitbank.com/)
 
-14. [Zaif]()
+14. [Zaif](https://zaif.jp/?lang=en)
 
-15. [Fisco]()
+15. [Fisco](www.fisco.co.jp/en/)
 
-16. [Bitflyer]()
+16. [Bitflyer](https://bitflyer.com/en-jp/)
 
-17. [Bittrex]()
+17. [Bittrex](https://bittrex.com/)
 
-18. [BTCBOX]()
+18. [BTCBOX](https://www.btcbox.co.jp)
 
-19. [Gate.io]()
+19. [Gate.io](https://gate.io/)
 
-20. [bgj.io]()
+20. [bgj.io](https://bgj.io/)
 
-21. [Exrates]()
+21. [Exrates](https://extras.io/)
 
-22. [YoBit]()
+22. [YoBit](https://yobit.net/)
 
-23. [Poloniex]()
+23. [Poloniex](https://poloniex.com/)
 
-24. [Coincheck]()
+24. [Coincheck](https://coincheck.com/)
 
-25. [Cryptonex]()
+25. [Cryptonex](https://cryptonex.org/)
 
-26. [Bibox]()
+26. [Bibox](https://www.bibox.com/)
 
-27. [Sistemkoin]()
+27. [Sistemkoin](https://sistemkoin.com/)
 
-28. [Lbank]()
+28. [Lbank](https://www.lbank.info/)
 
-29. [Gemini]()
+29. [Gemini](https://gemini.com/)
 
-30. [TOPBTC]()
+30. [TOPBTC](https://topbtc.com/)
 
-31. [BitMart]()
+31. [BitMart](https://www.bitmart.com/)
 
-32. [coinw]()
+32. [coinw](https://www.coinw.me/)
 
-33. [Exmo]()
+33. [Exmo](https://exmo.com/)
 
-34. [IDAX]()
+34. [IDAX](https://www.idax.mn/)
 
-35. [Ethfinex]()
+35. [Ethfinex](https://www.ethfinex.com/)
 
-36. [itBit]()
+36. [itBit](https://www.itbit.com/)
 
-37. [CoinTiger]()
+37. [CoinTiger](https://www.cointiger.com/)
 
-38. [HB.top]()
+38. [HB.top](https://www.hb.top/)
 
-39. [Simex]()
+39. [Simex](https://simex.global/en)
 
-40. [fatbtc]()
+40. [fatbtc](https://www.fatbtc.com/)
 
-41. [InifinityCoin Exchange]()
+41. [InifinityCoin Exchange](https://infinitycoin.exchange/)
 
-42. [Rfinex]()
+42. [Rfinex](https://rfinex.com/)
 
-43. [AEX]()
+43. [AEX](https://www.aex.com/)
 
-44. [Coinone]()
+44. [Coinone](https://coinone.co.kr/)
 
-45. [LATOKEN]()
+45. [LATOKEN](https://latoken.com/)
 
-46. [Bitlish]()
+46. [Bitlish](https://bitlish.com/)
 
-47. [B2BX]()
+47. [B2BX](https://www.b2bx.exchange/en/)
 
-48. [UEX]()
+48. [UEX](https://www.uex.com/)
 
-49. [QRYPTOS]()
+49. [QRYPTOS](https://www.qryptos.com/)
 
-50. [HADAX]()
+50. [HADAX](https://www.hadax.com/)
 
-### DEX (Decentralized Exchange)
 ### Social Trading Platform
 
  
