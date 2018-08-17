@@ -88,8 +88,7 @@
 * [Coinigy](https://coinigy.com/)
 * [TradingView](https://tradingview.com/)
 
-## Cryptocurrency Exchanges & Trading Platform
-### Trading Platforms
+## Cryptocurrency Exchanges (Non Trading Mining)
 1. [OKEX](https://www.okex.com/)
 
 2. [Binance](https://www.binance.com/)
@@ -190,8 +189,12 @@
 
 50. [HADAX](https://www.hadax.com/)
 
-### Social Trading Platform
+## Social Trading Platform
+1. [Blockport.io](https://blockport.io/) 
 
+2. [Covesting](https://covesting.io/)
+
+3. [Genesis Vision](https://genesis.vision/)
  
 
 ## Portfolio Trackers
