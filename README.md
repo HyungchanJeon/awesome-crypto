@@ -26,7 +26,7 @@
 
 * [BlockCypher](https://live.blockcypher.com/btc/)
 
-## Coinmarket Trackers
+## Cryptocurrency Price Trackers
 
 * [BitInfoCharts](https://bitinfocharts.com/)
 
@@ -53,6 +53,19 @@
 * [WorldCoinIndex](https://livecoinwatch.com/)
 
 ## Cryptocurrency News Websites
+
+* [Bitcoin Magazine](https://bitcoinmagazine.com/)
+
+* [Bitcoin News](https://news.bitcoin.com/)
+
+* [Coin Central](https://coincentral.com/)
+
+* [CoinDesk](https://www.coindesk.com/)
+
+* [Coin Telegraph](https://cointelegraph.com/)
+
+* [Toshi Times](https://toshitimes.com/)
+
 
 ## Cryptocurrency Wallets
 
