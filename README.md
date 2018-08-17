@@ -90,6 +90,9 @@
 
 ## Cryptocurrency Exchanges & Trading Platform
 ### Trading Platforms
+#### Stock
+#### Futures
+#### C2C
 
 ### DEX (Decentralized Exchange)
 ### Social Trading Platform
