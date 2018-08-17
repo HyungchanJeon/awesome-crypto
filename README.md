@@ -96,6 +96,18 @@
  
 
 ## Portfolio Trackers
-
+### Software Clients
+* Delta ([Android](https://play.google.com/store/apps/details?id=io.getdelta.android) | [iOS](https://itunes.apple.com/app/delta-crypto-ico-portfolio/id1288676542) | [PC](https://getdelta.io/download))
+* Blockfolio ([Android](https://play.google.com/store/apps/details?id=com.blockfolio.blockfolio&hl=en_US) | [iOS](https://itunes.apple.com/us/app/blockfolio-bitcoin-altcoin/id1095564685?mt=8))
+* Bitsnapp ([Android](https://play.google.com/store/apps/details?id=bitsnapp.com.bitsnapp))
+* BitUniverse ([Android](https://play.google.com/store/apps/details?id=com.bituniverse.portfolio&referrer=utm_source%3Dwebsite) | [iOS](https://itunes.apple.com/app/bituniverse/id1329338902?mt=8))
+* Coin Stats ([Android](https://play.google.com/store/apps/details?id=com.coinstats.crypto.portfolio) | [iOS](https://itunes.apple.com/us/app/coin-stats-btc-eth-xrp-prices-and-altfolio/id1247849330?mt=8) | [OSX](https://itunes.apple.com/us/app/coin-stats-crypto-portfolio/id1387758574?mt=12))
+* Cryptonaut ([Android](https://play.google.com/store/apps/details?id=org.cryptonaut.app) | [iOS](https://itunes.apple.com/us/app/cryptonaut-bitcoin-app/id1312756405))
+ 
+### Web Clients
+* [Altpocket](https://altpocket.io/)
+* [CoinTracking](https://cointracking.info/)
+* [CoinTrackr](https://cointrackr.com/)
+* [Coin.fyi](https://coin.fyi/)
 
 
