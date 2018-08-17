@@ -84,9 +84,16 @@
 * [poolprofit](https://poolprofit.io/en/)
 * [WhatToMine](https://whattomine.com/)
 ## Cryptocurrency Trading Tools
-
+* [Bitcoin Flip](https://bitcoinflip.app/)
+* [Coinigy](https://coinigy.com/)
+* [TradingView](https://tradingview.com/)
 
 ## Cryptocurrency Exchanges & Trading Platform
+### Trading Platforms
+### DEX (Decentralized Exchange)
+### Social Trading Platform
+
+ 
 
 ## Portfolio Trackers
 
