@@ -90,105 +90,105 @@
 
 ## Cryptocurrency Exchanges & Trading Platform
 ### Trading Platforms
-1.[OKEX](https://www.okex.com/)
+1. [OKEX](https://www.okex.com/)
 
-2.[Binance](https://www.binance.com/)
+2. [Binance](https://www.binance.com/)
 
-3.[Huobi.pro](https://www.huobi.com/)
+3. [Huobi.pro](https://www.huobi.com/)
 
-4.[Bitfinex](https://www.bitfinex.com/)
+4. [Bitfinex](https://www.bitfinex.com/)
 
-5.[UPbit](https://upbit.com/)
+5. [UPbit](https://upbit.com/)
 
-6.[Quoine](https://quoine.com/)
+6. [Quoine](https://quoine.com/)
 
-7.[Coinbase Pro](https://pro.coinbase.com/)
+7. [Coinbase Pro](https://pro.coinbase.com/)
 
-8.[Coinsbank](https://coinsbank.com/)
+8. [Coinsbank](https://coinsbank.com/)
 
-9.[Kraken]()
+9. [Kraken]()
 
-10.[Bitstamp]()
+10. [Bitstamp]()
 
-11.[Hitbtc]()
+11. [Hitbtc]()
 
-12.[Bithumb]()
+12. [Bithumb]()
 
-13.[bitbank]()
+13. [bitbank]()
 
-14.[Zaif]()
+14. [Zaif]()
 
-15.[Fisco]()
+15. [Fisco]()
 
-16.[Bitflyer]()
+16. [Bitflyer]()
 
-17.[Bittrex]()
+17. [Bittrex]()
 
-18.[BTCBOX]()
+18. [BTCBOX]()
 
-19.[Gate.io]()
+19. [Gate.io]()
 
-20.[bgj.io]()
+20. [bgj.io]()
 
-21.[Exrates]()
+21. [Exrates]()
 
-22.[YoBit]()
+22. [YoBit]()
 
-23.[Poloniex]()
+23. [Poloniex]()
 
-24.[Coincheck]()
+24. [Coincheck]()
 
-25.[Cryptonex]()
+25. [Cryptonex]()
 
-26.[Bibox]()
+26. [Bibox]()
 
-27.[Sistemkoin]()
+27. [Sistemkoin]()
 
-28.[Lbank]()
+28. [Lbank]()
 
-29.[Gemini]()
+29. [Gemini]()
 
-30.[TOPBTC]()
+30. [TOPBTC]()
 
-31.[BitMart]()
+31. [BitMart]()
 
-32.[coinw]()
+32. [coinw]()
 
-33.[Exmo]()
+33. [Exmo]()
 
-34.[IDAX]()
+34. [IDAX]()
 
-35.[Ethfinex]()
+35. [Ethfinex]()
 
-36.[itBit]()
+36. [itBit]()
 
-37.[CoinTiger]()
+37. [CoinTiger]()
 
-38.[HB.top]()
+38. [HB.top]()
 
-39.[Simex]()
+39. [Simex]()
 
-40.[fatbtc]()
+40. [fatbtc]()
 
-41.[InifinityCoin Exchange]()
+41. [InifinityCoin Exchange]()
 
-42.[Rfinex]()
+42. [Rfinex]()
 
-43.[AEX]()
+43. [AEX]()
 
-44.[Coinone]()
+44. [Coinone]()
 
-45.[LATOKEN]()
+45. [LATOKEN]()
 
-46.[Bitlish]()
+46. [Bitlish]()
 
-47.[B2BX]()
+47. [B2BX]()
 
-48.[UEX]()
+48. [UEX]()
 
-49.[QRYPTOS]()
+49. [QRYPTOS]()
 
-50.[HADAX]()
+50. [HADAX]()
 
 ### DEX (Decentralized Exchange)
 ### Social Trading Platform
